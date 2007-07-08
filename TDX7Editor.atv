@@ -1,0 +1,1813 @@
+// this is a generated file
+
+toad::TDialogLayout {
+  width = 525
+  height = 513
+  drawfocus = false
+  toad::TFigureModel {
+    toad::TFRectangle {
+      linecolor ={ 0 170 209 }
+      fillcolor ={ 0 170 209 }
+      x = 16
+      y = 136
+      w = 505
+      h = 45
+    }
+    toad::TFRectangle {
+      linecolor ={ 94 224 68 }
+      fillcolor ={ 94 224 68 }
+      x = 16
+      y = 180
+      w = 505
+      h = 45
+    }
+    toad::TFRectangle {
+      linecolor ={ 255 232 22 }
+      fillcolor ={ 255 232 22 }
+      x = 16
+      y = 224
+      w = 505
+      h = 45
+    }
+    toad::TFRectangle {
+      linecolor ={ 255 153 71 }
+      fillcolor ={ 255 153 71 }
+      x = 16
+      y = 268
+      w = 505
+      h = 45
+    }
+    toad::TFRectangle {
+      linecolor ={ 249 130 142 }
+      fillcolor ={ 249 130 142 }
+      x = 16
+      y = 312
+      w = 505
+      h = 45
+    }
+    toad::TFRectangle {
+      linecolor ={ 209 163 204 }
+      fillcolor ={ 209 163 204 }
+      x = 16
+      y = 356
+      w = 505
+      h = 45
+    }
+    toad::TFWindow {
+      x = 376
+      y = 360
+      w = 25
+      h = 17
+      title = "op0ams"
+      taborder = 0
+    }
+    toad::TFWindow {
+      x = 288
+      y = 360
+      w = 25
+      h = 17
+      title = "op0bp"
+      taborder = 0
+    }
+    toad::TFWindow {
+      x = 28
+      y = 360
+      w = 25
+      h = 17
+      title = "op0l1"
+      taborder = 0
+    }
+    toad::TFWindow {
+      x = 56
+      y = 360
+      w = 25
+      h = 17
+      title = "op0l2"
+      taborder = 0
+    }
+    toad::TFWindow {
+      x = 84
+      y = 360
+      w = 25
+      h = 17
+      title = "op0l3"
+      taborder = 0
+    }
+    toad::TFWindow {
+      x = 112
+      y = 360
+      w = 25
+      h = 17
+      title = "op0l4"
+      taborder = 0
+    }
+    toad::TFWindow {
+      x = 260
+      y = 360
+      w = 25
+      h = 17
+      title = "op0lc"
+      taborder = 0
+    }
+    toad::TFWindow {
+      x = 232
+      y = 360
+      w = 25
+      h = 17
+      title = "op0ld"
+      taborder = 0
+    }
+    toad::TFWindow {
+      x = 436
+      y = 360
+      w = 25
+      h = 17
+      title = "op0pc"
+      taborder = 0
+    }
+    toad::TFWindow {
+      x = 492
+      y = 360
+      w = 25
+      h = 17
+      title = "op0pd"
+      taborder = 0
+    }
+    toad::TFWindow {
+      x = 464
+      y = 360
+      w = 25
+      h = 17
+      title = "op0pf"
+      taborder = 0
+    }
+    toad::TFWindow {
+      x = 408
+      y = 360
+      w = 25
+      h = 17
+      title = "op0pm"
+      taborder = 0
+    }
+    toad::TFWindow {
+      x = 20
+      y = 380
+      w = 25
+      h = 17
+      title = "op0r1"
+      taborder = 0
+    }
+    toad::TFWindow {
+      x = 48
+      y = 380
+      w = 25
+      h = 17
+      title = "op0r2"
+      taborder = 0
+    }
+    toad::TFWindow {
+      x = 76
+      y = 380
+      w = 25
+      h = 17
+      title = "op0r3"
+      taborder = 0
+    }
+    toad::TFWindow {
+      x = 104
+      y = 380
+      w = 25
+      h = 17
+      title = "op0r4"
+      taborder = 0
+    }
+    toad::TFWindow {
+      x = 316
+      y = 360
+      w = 25
+      h = 17
+      title = "op0rc"
+      taborder = 0
+    }
+    toad::TFWindow {
+      x = 344
+      y = 360
+      w = 25
+      h = 17
+      title = "op0rd"
+      taborder = 0
+    }
+    toad::TFWindow {
+      x = 140
+      y = 360
+      w = 25
+      h = 17
+      title = "op0rs"
+      taborder = 0
+    }
+    toad::TFWindow {
+      x = 172
+      y = 360
+      w = 25
+      h = 17
+      title = "op0tl"
+      taborder = 0
+    }
+    toad::TFWindow {
+      x = 200
+      y = 360
+      w = 25
+      h = 17
+      title = "op0ts"
+      taborder = 0
+    }
+    toad::TFWindow {
+      x = 376
+      y = 316
+      w = 25
+      h = 17
+      title = "op1ams"
+      taborder = 0
+    }
+    toad::TFWindow {
+      x = 288
+      y = 316
+      w = 25
+      h = 17
+      title = "op1bp"
+      taborder = 0
+    }
+    toad::TFWindow {
+      x = 28
+      y = 316
+      w = 25
+      h = 17
+      title = "op1l1"
+      taborder = 0
+    }
+    toad::TFWindow {
+      x = 56
+      y = 316
+      w = 25
+      h = 17
+      title = "op1l2"
+      taborder = 0
+    }
+    toad::TFWindow {
+      x = 84
+      y = 316
+      w = 25
+      h = 17
+      title = "op1l3"
+      taborder = 0
+    }
+    toad::TFWindow {
+      x = 112
+      y = 316
+      w = 25
+      h = 17
+      title = "op1l4"
+      taborder = 0
+    }
+    toad::TFWindow {
+      x = 260
+      y = 316
+      w = 25
+      h = 17
+      title = "op1lc"
+      taborder = 0
+    }
+    toad::TFWindow {
+      x = 232
+      y = 316
+      w = 25
+      h = 17
+      title = "op1ld"
+      taborder = 0
+    }
+    toad::TFWindow {
+      x = 436
+      y = 316
+      w = 25
+      h = 17
+      title = "op1pc"
+      taborder = 0
+    }
+    toad::TFWindow {
+      x = 492
+      y = 316
+      w = 25
+      h = 17
+      title = "op1pd"
+      taborder = 0
+    }
+    toad::TFWindow {
+      x = 464
+      y = 316
+      w = 25
+      h = 17
+      title = "op1pf"
+      taborder = 0
+    }
+    toad::TFWindow {
+      x = 408
+      y = 316
+      w = 25
+      h = 17
+      title = "op1pm"
+      taborder = 0
+    }
+    toad::TFWindow {
+      x = 20
+      y = 336
+      w = 25
+      h = 17
+      title = "op1r1"
+      taborder = 0
+    }
+    toad::TFWindow {
+      x = 48
+      y = 336
+      w = 25
+      h = 17
+      title = "op1r2"
+      taborder = 0
+    }
+    toad::TFWindow {
+      x = 76
+      y = 336
+      w = 25
+      h = 17
+      title = "op1r3"
+      taborder = 0
+    }
+    toad::TFWindow {
+      x = 104
+      y = 336
+      w = 25
+      h = 17
+      title = "op1r4"
+      taborder = 0
+    }
+    toad::TFWindow {
+      x = 316
+      y = 316
+      w = 25
+      h = 17
+      title = "op1rc"
+      taborder = 0
+    }
+    toad::TFWindow {
+      x = 344
+      y = 316
+      w = 25
+      h = 17
+      title = "op1rd"
+      taborder = 0
+    }
+    toad::TFWindow {
+      x = 140
+      y = 316
+      w = 25
+      h = 17
+      title = "op1rs"
+      taborder = 0
+    }
+    toad::TFWindow {
+      x = 172
+      y = 316
+      w = 25
+      h = 17
+      title = "op1tl"
+      taborder = 0
+    }
+    toad::TFWindow {
+      x = 200
+      y = 316
+      w = 25
+      h = 17
+      title = "op1ts"
+      taborder = 0
+    }
+    toad::TFWindow {
+      x = 376
+      y = 228
+      w = 25
+      h = 17
+      title = "op3ams"
+      taborder = 0
+    }
+    toad::TFWindow {
+      x = 288
+      y = 228
+      w = 25
+      h = 17
+      title = "op3bp"
+      taborder = 0
+    }
+    toad::TFWindow {
+      x = 28
+      y = 228
+      w = 25
+      h = 17
+      title = "op3l1"
+      taborder = 0
+    }
+    toad::TFWindow {
+      x = 56
+      y = 228
+      w = 25
+      h = 17
+      title = "op3l2"
+      taborder = 0
+    }
+    toad::TFWindow {
+      x = 84
+      y = 228
+      w = 25
+      h = 17
+      title = "op3l3"
+      taborder = 0
+    }
+    toad::TFWindow {
+      x = 112
+      y = 228
+      w = 25
+      h = 17
+      title = "op3l4"
+      taborder = 0
+    }
+    toad::TFWindow {
+      x = 260
+      y = 228
+      w = 25
+      h = 17
+      title = "op3lc"
+      taborder = 0
+    }
+    toad::TFWindow {
+      x = 232
+      y = 228
+      w = 25
+      h = 17
+      title = "op3ld"
+      taborder = 0
+    }
+    toad::TFWindow {
+      x = 436
+      y = 228
+      w = 25
+      h = 17
+      title = "op3pc"
+      taborder = 0
+    }
+    toad::TFWindow {
+      x = 492
+      y = 228
+      w = 25
+      h = 17
+      title = "op3pd"
+      taborder = 0
+    }
+    toad::TFWindow {
+      x = 464
+      y = 228
+      w = 25
+      h = 17
+      title = "op3pf"
+      taborder = 0
+    }
+    toad::TFWindow {
+      x = 408
+      y = 228
+      w = 25
+      h = 17
+      title = "op3pm"
+      taborder = 0
+    }
+    toad::TFWindow {
+      x = 20
+      y = 248
+      w = 25
+      h = 17
+      title = "op3r1"
+      taborder = 0
+    }
+    toad::TFWindow {
+      x = 48
+      y = 248
+      w = 25
+      h = 17
+      title = "op3r2"
+      taborder = 0
+    }
+    toad::TFWindow {
+      x = 76
+      y = 248
+      w = 25
+      h = 17
+      title = "op3r3"
+      taborder = 0
+    }
+    toad::TFWindow {
+      x = 104
+      y = 248
+      w = 25
+      h = 17
+      title = "op3r4"
+      taborder = 0
+    }
+    toad::TFWindow {
+      x = 316
+      y = 228
+      w = 25
+      h = 17
+      title = "op3rc"
+      taborder = 0
+    }
+    toad::TFWindow {
+      x = 344
+      y = 228
+      w = 25
+      h = 17
+      title = "op3rd"
+      taborder = 0
+    }
+    toad::TFWindow {
+      x = 140
+      y = 228
+      w = 25
+      h = 17
+      title = "op3rs"
+      taborder = 0
+    }
+    toad::TFWindow {
+      x = 172
+      y = 228
+      w = 25
+      h = 17
+      title = "op3tl"
+      taborder = 0
+    }
+    toad::TFWindow {
+      x = 200
+      y = 228
+      w = 25
+      h = 17
+      title = "op3ts"
+      taborder = 0
+    }
+    toad::TFWindow {
+      x = 376
+      y = 184
+      w = 25
+      h = 17
+      title = "op4ams"
+      taborder = 0
+    }
+    toad::TFWindow {
+      x = 288
+      y = 184
+      w = 25
+      h = 17
+      title = "op4bp"
+      taborder = 0
+    }
+    toad::TFWindow {
+      x = 28
+      y = 184
+      w = 25
+      h = 17
+      title = "op4l1"
+      taborder = 0
+    }
+    toad::TFWindow {
+      x = 56
+      y = 184
+      w = 25
+      h = 17
+      title = "op4l2"
+      taborder = 0
+    }
+    toad::TFWindow {
+      x = 84
+      y = 184
+      w = 25
+      h = 17
+      title = "op4l3"
+      taborder = 0
+    }
+    toad::TFWindow {
+      x = 112
+      y = 184
+      w = 25
+      h = 17
+      title = "op4l4"
+      taborder = 0
+    }
+    toad::TFWindow {
+      x = 260
+      y = 184
+      w = 25
+      h = 17
+      title = "op4lc"
+      taborder = 0
+    }
+    toad::TFWindow {
+      x = 232
+      y = 184
+      w = 25
+      h = 17
+      title = "op4ld"
+      taborder = 0
+    }
+    toad::TFWindow {
+      x = 436
+      y = 184
+      w = 25
+      h = 17
+      title = "op4pc"
+      taborder = 0
+    }
+    toad::TFWindow {
+      x = 492
+      y = 184
+      w = 25
+      h = 17
+      title = "op4pd"
+      taborder = 0
+    }
+    toad::TFWindow {
+      x = 464
+      y = 184
+      w = 25
+      h = 17
+      title = "op4pf"
+      taborder = 0
+    }
+    toad::TFWindow {
+      x = 408
+      y = 184
+      w = 25
+      h = 17
+      title = "op4pm"
+      taborder = 0
+    }
+    toad::TFWindow {
+      x = 20
+      y = 204
+      w = 25
+      h = 17
+      title = "op4r1"
+      taborder = 0
+    }
+    toad::TFWindow {
+      x = 48
+      y = 204
+      w = 25
+      h = 17
+      title = "op4r2"
+      taborder = 0
+    }
+    toad::TFWindow {
+      x = 76
+      y = 204
+      w = 25
+      h = 17
+      title = "op4r3"
+      taborder = 0
+    }
+    toad::TFWindow {
+      x = 104
+      y = 204
+      w = 25
+      h = 17
+      title = "op4r4"
+      taborder = 0
+    }
+    toad::TFWindow {
+      x = 316
+      y = 184
+      w = 25
+      h = 17
+      title = "op4rc"
+      taborder = 0
+    }
+    toad::TFWindow {
+      x = 344
+      y = 184
+      w = 25
+      h = 17
+      title = "op4rd"
+      taborder = 0
+    }
+    toad::TFWindow {
+      x = 140
+      y = 184
+      w = 25
+      h = 17
+      title = "op4rs"
+      taborder = 0
+    }
+    toad::TFWindow {
+      x = 172
+      y = 184
+      w = 25
+      h = 17
+      title = "op4tl"
+      taborder = 0
+    }
+    toad::TFWindow {
+      x = 200
+      y = 184
+      w = 25
+      h = 17
+      title = "op4ts"
+      taborder = 0
+    }
+    toad::TFWindow {
+      x = 376
+      y = 140
+      w = 25
+      h = 17
+      title = "op5ams"
+      taborder = 0
+    }
+    toad::TFWindow {
+      x = 288
+      y = 140
+      w = 25
+      h = 17
+      title = "op5bp"
+      taborder = 0
+    }
+    toad::TFWindow {
+      x = 28
+      y = 140
+      w = 25
+      h = 17
+      title = "op5l1"
+      taborder = 0
+    }
+    toad::TFWindow {
+      x = 56
+      y = 140
+      w = 25
+      h = 17
+      title = "op5l2"
+      taborder = 0
+    }
+    toad::TFWindow {
+      x = 84
+      y = 140
+      w = 25
+      h = 17
+      title = "op5l3"
+      taborder = 0
+    }
+    toad::TFWindow {
+      x = 112
+      y = 140
+      w = 25
+      h = 17
+      title = "op5l4"
+      taborder = 0
+    }
+    toad::TFWindow {
+      x = 260
+      y = 140
+      w = 25
+      h = 17
+      title = "op5lc"
+      taborder = 0
+    }
+    toad::TFWindow {
+      x = 232
+      y = 140
+      w = 25
+      h = 17
+      title = "op5ld"
+      taborder = 0
+    }
+    toad::TFWindow {
+      x = 436
+      y = 140
+      w = 25
+      h = 17
+      title = "op5pc"
+      taborder = 0
+    }
+    toad::TFWindow {
+      x = 492
+      y = 140
+      w = 25
+      h = 17
+      title = "op5pd"
+      taborder = 0
+    }
+    toad::TFWindow {
+      x = 464
+      y = 140
+      w = 25
+      h = 17
+      title = "op5pf"
+      taborder = 0
+    }
+    toad::TFWindow {
+      x = 408
+      y = 140
+      w = 25
+      h = 17
+      title = "op5pm"
+      taborder = 0
+    }
+    toad::TFWindow {
+      x = 20
+      y = 160
+      w = 25
+      h = 17
+      title = "op5r1"
+      taborder = 0
+    }
+    toad::TFWindow {
+      x = 48
+      y = 160
+      w = 25
+      h = 17
+      title = "op5r2"
+      taborder = 0
+    }
+    toad::TFWindow {
+      x = 76
+      y = 160
+      w = 25
+      h = 17
+      title = "op5r3"
+      taborder = 0
+    }
+    toad::TFWindow {
+      x = 104
+      y = 160
+      w = 25
+      h = 17
+      title = "op5r4"
+      taborder = 0
+    }
+    toad::TFWindow {
+      x = 316
+      y = 140
+      w = 25
+      h = 17
+      title = "op5rc"
+      taborder = 0
+    }
+    toad::TFWindow {
+      x = 344
+      y = 140
+      w = 25
+      h = 17
+      title = "op5rd"
+      taborder = 0
+    }
+    toad::TFWindow {
+      x = 140
+      y = 140
+      w = 25
+      h = 17
+      title = "op5rs"
+      taborder = 0
+    }
+    toad::TFWindow {
+      x = 172
+      y = 140
+      w = 25
+      h = 17
+      title = "op5tl"
+      taborder = 0
+    }
+    toad::TFWindow {
+      x = 200
+      y = 140
+      w = 25
+      h = 17
+      title = "op5ts"
+      taborder = 0
+    }
+    toad::TFText {
+      linecolor ={ 0 0 0 }
+      x = 4
+      y = 160
+      w = 11
+      h = 16
+      fontname = "arial,helvetica,sans-serif:size=12"
+      text = "R"
+    }
+    toad::TFText {
+      linecolor ={ 0 0 0 }
+      x = 4
+      y = 144
+      w = 9
+      h = 16
+      fontname = "arial,helvetica,sans-serif:size=12"
+      text = "L"
+    }
+    toad::TFText {
+      linecolor ={ 0 0 0 }
+      x = 36
+      y = 124
+      w = 10
+      h = 16
+      fontname = "arial,helvetica,sans-serif:size=12"
+      text = "1"
+    }
+    toad::TFText {
+      linecolor ={ 0 0 0 }
+      x = 64
+      y = 124
+      w = 9
+      h = 16
+      fontname = "arial,helvetica,sans-serif:size=12"
+      text = "2"
+    }
+    toad::TFText {
+      linecolor ={ 0 0 0 }
+      x = 92
+      y = 124
+      w = 10
+      h = 16
+      fontname = "arial,helvetica,sans-serif:size=12"
+      text = "3"
+    }
+    toad::TFText {
+      linecolor ={ 0 0 0 }
+      x = 120
+      y = 124
+      w = 9
+      h = 16
+      fontname = "arial,helvetica,sans-serif:size=12"
+      text = "4"
+    }
+    toad::TFText {
+      linecolor ={ 0 0 0 }
+      x = 236
+      y = 124
+      w = 17
+      h = 16
+      fontname = "arial,helvetica,sans-serif:size=12"
+      text = "Ld"
+    }
+    toad::TFText {
+      linecolor ={ 0 0 0 }
+      x = 292
+      y = 124
+      w = 18
+      h = 16
+      fontname = "arial,helvetica,sans-serif:size=12"
+      text = "Bp"
+    }
+    toad::TFText {
+      linecolor ={ 0 0 0 }
+      x = 348
+      y = 124
+      w = 19
+      h = 16
+      fontname = "arial,helvetica,sans-serif:size=12"
+      text = "Rd"
+    }
+    toad::TFText {
+      linecolor ={ 0 0 0 }
+      x = 176
+      y = 124
+      w = 19
+      h = 16
+      fontname = "arial,helvetica,sans-serif:size=12"
+      text = "Lvl"
+    }
+    toad::TFText {
+      linecolor ={ 0 0 0 }
+      x = 376
+      y = 124
+      w = 31
+      h = 16
+      fontname = "arial,helvetica,sans-serif:size=12"
+      text = "AMS"
+    }
+    toad::TFText {
+      linecolor ={ 0 0 0 }
+      x = 436
+      y = 124
+      w = 31
+      h = 16
+      fontname = "arial,helvetica,sans-serif:size=12"
+      text = "Coar"
+    }
+    toad::TFText {
+      linecolor ={ 0 0 0 }
+      x = 408
+      y = 124
+      w = 37
+      h = 16
+      fontname = "arial,helvetica,sans-serif:size=12"
+      text = "Mode"
+    }
+    toad::TFText {
+      linecolor ={ 0 0 0 }
+      x = 464
+      y = 124
+      w = 28
+      h = 16
+      fontname = "arial,helvetica,sans-serif:size=12"
+      text = "Fine"
+    }
+    toad::TFText {
+      linecolor ={ 0 0 0 }
+      x = 492
+      y = 124
+      w = 22
+      h = 16
+      fontname = "arial,helvetica,sans-serif:size=12"
+      text = "Det"
+    }
+    toad::TFText {
+      linecolor ={ 0 0 0 }
+      x = 144
+      y = 124
+      w = 17
+      h = 16
+      fontname = "arial,helvetica,sans-serif:size=12"
+      text = "Rs"
+    }
+    toad::TFWindow {
+      x = 376
+      y = 272
+      w = 25
+      h = 17
+      title = "op2ams"
+      taborder = 0
+    }
+    toad::TFWindow {
+      x = 288
+      y = 272
+      w = 25
+      h = 17
+      title = "op2bp"
+      taborder = 0
+    }
+    toad::TFWindow {
+      x = 28
+      y = 272
+      w = 25
+      h = 17
+      title = "op2l1"
+      taborder = 0
+    }
+    toad::TFWindow {
+      x = 56
+      y = 272
+      w = 25
+      h = 17
+      title = "op2l2"
+      taborder = 0
+    }
+    toad::TFWindow {
+      x = 84
+      y = 272
+      w = 25
+      h = 17
+      title = "op2l3"
+      taborder = 0
+    }
+    toad::TFWindow {
+      x = 112
+      y = 272
+      w = 25
+      h = 17
+      title = "op2l4"
+      taborder = 0
+    }
+    toad::TFWindow {
+      x = 260
+      y = 272
+      w = 25
+      h = 17
+      title = "op2lc"
+      taborder = 0
+    }
+    toad::TFWindow {
+      x = 232
+      y = 272
+      w = 25
+      h = 17
+      title = "op2ld"
+      taborder = 0
+    }
+    toad::TFWindow {
+      x = 436
+      y = 272
+      w = 25
+      h = 17
+      title = "op2pc"
+      taborder = 0
+    }
+    toad::TFWindow {
+      x = 492
+      y = 272
+      w = 25
+      h = 17
+      title = "op2pd"
+      taborder = 0
+    }
+    toad::TFWindow {
+      x = 464
+      y = 272
+      w = 25
+      h = 17
+      title = "op2pf"
+      taborder = 0
+    }
+    toad::TFWindow {
+      x = 408
+      y = 272
+      w = 25
+      h = 17
+      title = "op2pm"
+      taborder = 0
+    }
+    toad::TFWindow {
+      x = 20
+      y = 292
+      w = 25
+      h = 17
+      title = "op2r1"
+      taborder = 0
+    }
+    toad::TFWindow {
+      x = 48
+      y = 292
+      w = 25
+      h = 17
+      title = "op2r2"
+      taborder = 0
+    }
+    toad::TFWindow {
+      x = 76
+      y = 292
+      w = 25
+      h = 17
+      title = "op2r3"
+      taborder = 0
+    }
+    toad::TFWindow {
+      x = 104
+      y = 292
+      w = 25
+      h = 17
+      title = "op2r4"
+      taborder = 0
+    }
+    toad::TFWindow {
+      x = 316
+      y = 272
+      w = 25
+      h = 17
+      title = "op2rc"
+      taborder = 0
+    }
+    toad::TFWindow {
+      x = 344
+      y = 272
+      w = 25
+      h = 17
+      title = "op2rd"
+      taborder = 0
+    }
+    toad::TFWindow {
+      x = 140
+      y = 272
+      w = 25
+      h = 17
+      title = "op2rs"
+      taborder = 0
+    }
+    toad::TFWindow {
+      x = 172
+      y = 272
+      w = 25
+      h = 17
+      title = "op2tl"
+      taborder = 0
+    }
+    toad::TFWindow {
+      x = 200
+      y = 272
+      w = 25
+      h = 17
+      title = "op2ts"
+      taborder = 0
+    }
+    toad::TFText {
+      linecolor ={ 0 0 0 }
+      x = 340
+      y = 280
+      w = 2
+      h = 16
+      fontname = "arial,helvetica,sans-serif:size=12"
+      text = ""
+    }
+    toad::TFText {
+      linecolor ={ 0 0 0 }
+      x = 200
+      y = 124
+      w = 30
+      h = 16
+      fontname = "arial,helvetica,sans-serif:size=12"
+      text = "Velo"
+    }
+    toad::TFText {
+      linecolor ={ 0 0 0 }
+      x = 260
+      y = 124
+      w = 16
+      h = 16
+      fontname = "arial,helvetica,sans-serif:size=12"
+      text = "Lc"
+    }
+    toad::TFText {
+      linecolor ={ 0 0 0 }
+      x = 320
+      y = 124
+      w = 18
+      h = 16
+      fontname = "arial,helvetica,sans-serif:size=12"
+      text = "Rc"
+    }
+    toad::TFWindow {
+      x = 476
+      y = 12
+      w = 25
+      h = 17
+      title = "als"
+      taborder = 0
+    }
+    toad::TFWindow {
+      x = 476
+      y = 32
+      w = 25
+      h = 17
+      title = "fbl"
+      taborder = 0
+    }
+    toad::TFText {
+      linecolor ={ 0 0 0 }
+      x = 416
+      y = 16
+      w = 58
+      h = 16
+      fontname = "arial,helvetica,sans-serif:size=12"
+      text = "Algorithm"
+    }
+    toad::TFText {
+      linecolor ={ 0 0 0 }
+      x = 416
+      y = 36
+      w = 62
+      h = 16
+      fontname = "arial,helvetica,sans-serif:size=12"
+      text = "Feedback"
+    }
+    toad::TFWindow {
+      x = 484
+      y = 432
+      w = 13
+      h = 17
+      title = "lfks"
+      taborder = 0
+    }
+    toad::TFWindow {
+      x = 476
+      y = 72
+      w = 29
+      h = 17
+      title = "opi"
+      taborder = 0
+    }
+    toad::TFWindow {
+      x = 476
+      y = 92
+      w = 29
+      h = 17
+      title = "trnp"
+      taborder = 0
+    }
+    toad::TFText {
+      linecolor ={ 0 0 0 }
+      x = 476
+      y = 420
+      w = 32
+      h = 16
+      fontname = "arial,helvetica,sans-serif:size=12"
+      text = "Sync"
+    }
+    toad::TFText {
+      linecolor ={ 0 0 0 }
+      x = 416
+      y = 76
+      w = 56
+      h = 16
+      fontname = "arial,helvetica,sans-serif:size=12"
+      text = "Osc.sync"
+    }
+    toad::TFText {
+      linecolor ={ 0 0 0 }
+      x = 416
+      y = 96
+      w = 63
+      h = 16
+      fontname = "arial,helvetica,sans-serif:size=12"
+      text = "Transpose"
+    }
+    toad::TFWindow {
+      x = 432
+      y = 488
+      w = 81
+      h = 21
+      title = "dump"
+      label = "Fetch Voice"
+      taborder = 0
+    }
+    toad::TFRectangle {
+      linecolor ={ 0 0 0 }
+      fillcolor ={ 0 0 0 }
+      x = 260
+      y = 4
+      w = 149
+      h = 117
+    }
+    toad::TFLine {
+      linecolor ={ 0 0 0 }
+      228 124
+      228 400
+    }
+    toad::TFLine {
+      linecolor ={ 0 0 0 }
+      372 124
+      372 400
+    }
+    toad::TFLine {
+      linecolor ={ 0 0 0 }
+      404 124
+      404 400
+    }
+    toad::TFWindow {
+      x = 8
+      y = 488
+      w = 77
+      h = 21
+      title = "packed32"
+      label = "DX7 -> File"
+      taborder = 0
+    }
+    toad::TFWindow {
+      x = 88
+      y = 488
+      w = 81
+      h = 21
+      title = "snd-packed32"
+      label = "File -> DX7"
+      taborder = 0
+    }
+    toad::TFText {
+      linecolor ={ 0 0 0 }
+      x = 4
+      y = 204
+      w = 11
+      h = 16
+      fontname = "arial,helvetica,sans-serif:size=12"
+      text = "R"
+    }
+    toad::TFText {
+      linecolor ={ 0 0 0 }
+      x = 4
+      y = 188
+      w = 9
+      h = 16
+      fontname = "arial,helvetica,sans-serif:size=12"
+      text = "L"
+    }
+    toad::TFText {
+      linecolor ={ 0 0 0 }
+      x = 4
+      y = 248
+      w = 11
+      h = 16
+      fontname = "arial,helvetica,sans-serif:size=12"
+      text = "R"
+    }
+    toad::TFText {
+      linecolor ={ 0 0 0 }
+      x = 4
+      y = 232
+      w = 9
+      h = 16
+      fontname = "arial,helvetica,sans-serif:size=12"
+      text = "L"
+    }
+    toad::TFText {
+      linecolor ={ 0 0 0 }
+      x = 4
+      y = 292
+      w = 11
+      h = 16
+      fontname = "arial,helvetica,sans-serif:size=12"
+      text = "R"
+    }
+    toad::TFText {
+      linecolor ={ 0 0 0 }
+      x = 4
+      y = 276
+      w = 9
+      h = 16
+      fontname = "arial,helvetica,sans-serif:size=12"
+      text = "L"
+    }
+    toad::TFText {
+      linecolor ={ 0 0 0 }
+      x = 4
+      y = 336
+      w = 11
+      h = 16
+      fontname = "arial,helvetica,sans-serif:size=12"
+      text = "R"
+    }
+    toad::TFText {
+      linecolor ={ 0 0 0 }
+      x = 4
+      y = 320
+      w = 9
+      h = 16
+      fontname = "arial,helvetica,sans-serif:size=12"
+      text = "L"
+    }
+    toad::TFText {
+      linecolor ={ 0 0 0 }
+      x = 4
+      y = 380
+      w = 11
+      h = 16
+      fontname = "arial,helvetica,sans-serif:size=12"
+      text = "R"
+    }
+    toad::TFText {
+      linecolor ={ 0 0 0 }
+      x = 4
+      y = 364
+      w = 9
+      h = 16
+      fontname = "arial,helvetica,sans-serif:size=12"
+      text = "L"
+    }
+    toad::TFWindow {
+      x = 412
+      y = 432
+      w = 25
+      h = 17
+      title = "lamd"
+      taborder = 0
+    }
+    toad::TFWindow {
+      x = 316
+      y = 432
+      w = 25
+      h = 17
+      title = "lfd"
+      taborder = 0
+    }
+    toad::TFWindow {
+      x = 280
+      y = 432
+      w = 25
+      h = 17
+      title = "lfs"
+      taborder = 0
+    }
+    toad::TFWindow {
+      x = 244
+      y = 432
+      w = 25
+      h = 17
+      title = "lfw"
+      taborder = 0
+    }
+    toad::TFWindow {
+      x = 380
+      y = 432
+      w = 25
+      h = 17
+      title = "lpmd"
+      taborder = 0
+    }
+    toad::TFWindow {
+      x = 444
+      y = 432
+      w = 25
+      h = 17
+      title = "lpms"
+      taborder = 0
+    }
+    toad::TFText {
+      linecolor ={ 0 0 0 }
+      x = 412
+      y = 420
+      w = 31
+      h = 16
+      fontname = "arial,helvetica,sans-serif:size=12"
+      text = "AMD"
+    }
+    toad::TFText {
+      linecolor ={ 0 0 0 }
+      x = 380
+      y = 420
+      w = 31
+      h = 16
+      fontname = "arial,helvetica,sans-serif:size=12"
+      text = "PMD"
+    }
+    toad::TFText {
+      linecolor ={ 0 0 0 }
+      x = 316
+      y = 420
+      w = 36
+      h = 16
+      fontname = "arial,helvetica,sans-serif:size=12"
+      text = "Delay"
+    }
+    toad::TFText {
+      linecolor ={ 0 0 0 }
+      x = 276
+      y = 420
+      w = 42
+      h = 16
+      fontname = "arial,helvetica,sans-serif:size=12"
+      text = "Speed"
+    }
+    toad::TFText {
+      linecolor ={ 0 0 0 }
+      x = 240
+      y = 420
+      w = 37
+      h = 16
+      fontname = "arial,helvetica,sans-serif:size=12"
+      text = "Wave"
+    }
+    toad::TFText {
+      linecolor ={ 0 0 0 }
+      x = 444
+      y = 420
+      w = 31
+      h = 16
+      fontname = "arial,helvetica,sans-serif:size=12"
+      text = "PMS"
+    }
+    toad::TFFrame {
+      linecolor ={ 0 0 0 }
+      x = 236
+      y = 412
+      w = 285
+      h = 65
+      fontname = "arial,helvetica,sans-serif:size=12"
+      text = "LFO"
+    }
+    toad::TFWindow {
+      x = 28
+      y = 432
+      w = 25
+      h = 17
+      title = "pl1"
+      taborder = 0
+    }
+    toad::TFWindow {
+      x = 56
+      y = 432
+      w = 25
+      h = 17
+      title = "pl2"
+      taborder = 0
+    }
+    toad::TFWindow {
+      x = 84
+      y = 432
+      w = 25
+      h = 17
+      title = "pl3"
+      taborder = 0
+    }
+    toad::TFWindow {
+      x = 112
+      y = 432
+      w = 25
+      h = 17
+      title = "pl4"
+      taborder = 0
+    }
+    toad::TFWindow {
+      x = 20
+      y = 452
+      w = 25
+      h = 17
+      title = "pr1"
+      taborder = 0
+    }
+    toad::TFWindow {
+      x = 48
+      y = 452
+      w = 25
+      h = 17
+      title = "pr2"
+      taborder = 0
+    }
+    toad::TFWindow {
+      x = 76
+      y = 452
+      w = 25
+      h = 17
+      title = "pr3"
+      taborder = 0
+    }
+    toad::TFWindow {
+      x = 104
+      y = 452
+      w = 25
+      h = 17
+      title = "pr4"
+      taborder = 0
+    }
+    toad::TFText {
+      linecolor ={ 0 0 0 }
+      x = 8
+      y = 456
+      w = 11
+      h = 16
+      fontname = "arial,helvetica,sans-serif:size=12"
+      text = "R"
+    }
+    toad::TFText {
+      linecolor ={ 0 0 0 }
+      x = 8
+      y = 436
+      w = 9
+      h = 16
+      fontname = "arial,helvetica,sans-serif:size=12"
+      text = "L"
+    }
+    toad::TFText {
+      linecolor ={ 0 0 0 }
+      x = 36
+      y = 420
+      w = 10
+      h = 16
+      fontname = "arial,helvetica,sans-serif:size=12"
+      text = "1"
+    }
+    toad::TFText {
+      linecolor ={ 0 0 0 }
+      x = 64
+      y = 420
+      w = 9
+      h = 16
+      fontname = "arial,helvetica,sans-serif:size=12"
+      text = "2"
+    }
+    toad::TFText {
+      linecolor ={ 0 0 0 }
+      x = 92
+      y = 420
+      w = 10
+      h = 16
+      fontname = "arial,helvetica,sans-serif:size=12"
+      text = "3"
+    }
+    toad::TFText {
+      linecolor ={ 0 0 0 }
+      x = 120
+      y = 420
+      w = 9
+      h = 16
+      fontname = "arial,helvetica,sans-serif:size=12"
+      text = "4"
+    }
+    toad::TFFrame {
+      linecolor ={ 0 0 0 }
+      x = 4
+      y = 412
+      w = 229
+      h = 65
+      fontname = "arial,helvetica,sans-serif:size=12"
+      text = "Pitch EG"
+    }
+    toad::TFFrame {
+      linecolor ={ 0 0 0 }
+      x = -564
+      y = 28
+      w = 1
+      h = 1
+      fontname = "arial,helvetica,sans-serif:size=12"
+      text = ""
+    }
+    toad::TFFrame {
+      linecolor ={ 0 0 0 }
+      x = -580
+      y = 32
+      w = 1
+      h = 1
+      fontname = "arial,helvetica,sans-serif:size=12"
+      text = ""
+    }
+    toad::TFFrame {
+      linecolor ={ 0 0 0 }
+      x = -584
+      y = 36
+      w = 1
+      h = 1
+      fontname = "arial,helvetica,sans-serif:size=12"
+      text = ""
+    }
+    toad::TFFrame {
+      linecolor ={ 0 0 0 }
+      x = -596
+      y = 32
+      w = 1
+      h = 1
+      fontname = "arial,helvetica,sans-serif:size=12"
+      text = ""
+    }
+    toad::TFWindow {
+      x = 4
+      y = 4
+      w = 253
+      h = 117
+      title = "envelope"
+      taborder = 0
+    }
+    toad::TFText {
+      linecolor ={ 0 0 0 }
+      x = 348
+      y = 420
+      w = 37
+      h = 16
+      fontname = "arial,helvetica,sans-serif:size=12"
+      text = "Mode"
+    }
+    toad::TFText {
+      linecolor ={ 0 0 0 }
+      x = 148
+      y = 436
+      w = 41
+      h = 16
+      fontname = "arial,helvetica,sans-serif:size=12"
+      text = "Range"
+    }
+    toad::TFText {
+      linecolor ={ 0 0 0 }
+      x = 148
+      y = 456
+      w = 50
+      h = 16
+      fontname = "arial,helvetica,sans-serif:size=12"
+      text = "Velocity"
+    }
+    toad::TFWindow {
+      x = 198
+      y = 487
+      w = 92
+      h = 22
+      title = "midi-in"
+      taborder = 0
+    }
+    toad::TFWindow {
+      x = 328
+      y = 487
+      w = 102
+      h = 22
+      title = "midi-out"
+      taborder = 0
+    }
+    toad::TFText {
+      linecolor ={ 0 0 0 }
+      x = 179
+      y = 491
+      w = 16
+      h = 16
+      fontname = "arial,helvetica,sans-serif:size=12"
+      text = "In:"
+    }
+    toad::TFText {
+      linecolor ={ 0 0 0 }
+      x = 298
+      y = 491
+      w = 27
+      h = 16
+      fontname = "arial,helvetica,sans-serif:size=12"
+      text = "Out:"
+    }
+  }
+}
